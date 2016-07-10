@@ -28,6 +28,7 @@
     "connect-livereload": "0.5.4",
     "eslint": "3.0.1",
     "eslint-plugin-html": "1.5.1",
+    "livereload": "0.4.1",
     "node-sass": "3.8.0",
     "serve-static": "1.11.1",
     "vue": "1.0.26",
