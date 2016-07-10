@@ -1,6 +1,8 @@
 module.exports = {
     "extends": ["eslint:recommended"],
-    "plugins": [],
+    "plugins": [
+        'html',
+    ],
     "parserOptions": {},
     "env": {
         "browser": true,
